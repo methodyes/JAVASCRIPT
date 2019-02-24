@@ -5,6 +5,11 @@ JAVASCRIPT-Adds programming to our web page
 Where do we place js codes ? 
 inside head tag or body tag --<script></script>
 
+How to create an external javascript file ?
+Create a text file inside the folder where the HTML file is located and save that file as xxx.js
+inside html codes, <script src="xxx.js"></script>
+now write the js codes inside js file.
+
 what is statement?
 is a set of codes
 
