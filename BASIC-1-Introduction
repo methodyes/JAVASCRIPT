@@ -1,0 +1,13 @@
+HTML-Adds strcuture to our web page
+CSS-Adds style to our web page
+JAVASCRIPT-Adds programming to our web page
+
+Where do we place js codes ? 
+inside head tag or body tag --<script></script>
+
+what is statement?
+is a set of codes
+
+what is document.write ?
+is used to display on the page. ex--document.write("hellow world")
+
