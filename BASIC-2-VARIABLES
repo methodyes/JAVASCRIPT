@@ -1,2 +1,7 @@
 var x;
 x=55; or var x=55;
+
+Types of variables ?
+1. numeric variables---numbers
+2. string variables ---texts or characters
+3. boolean variables ---true or false
